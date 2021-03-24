@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch4/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3  -std=c++11 -g   -o CMakeFiles/useSophus.dir/useSophus.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch4/useSophus.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch4/useSophus.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch4/build/example",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -I/usr/local/lib/cmake/Pangolin/../../../include -isystem /usr/local/include  -std=c++11 -g   -o CMakeFiles/trajectoryError.dir/trajectoryError.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch4/example/trajectoryError.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch4/example/trajectoryError.cpp"
+}
+]

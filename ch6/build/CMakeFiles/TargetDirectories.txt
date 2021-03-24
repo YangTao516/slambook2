@@ -1,0 +1,5 @@
+/home/yt-306/kdevelop/project/slambook/ch6/build/CMakeFiles/rebuild_cache.dir
+/home/yt-306/kdevelop/project/slambook/ch6/build/CMakeFiles/edit_cache.dir
+/home/yt-306/kdevelop/project/slambook/ch6/build/CMakeFiles/g2oCurveFitting.dir
+/home/yt-306/kdevelop/project/slambook/ch6/build/CMakeFiles/gaussNewton.dir
+/home/yt-306/kdevelop/project/slambook/ch6/build/CMakeFiles/ceresCurveFitting.dir

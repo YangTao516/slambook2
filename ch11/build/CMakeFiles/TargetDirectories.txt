@@ -1,0 +1,2 @@
+/home/yt-306/kdevelop/project/slambook/ch11/build/CMakeFiles/rebuild_cache.dir
+/home/yt-306/kdevelop/project/slambook/ch11/build/CMakeFiles/edit_cache.dir

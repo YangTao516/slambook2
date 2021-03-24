@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch3/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/yt-306/kdevelop/ThirdParty/Pangolin/include -isystem /home/yt-306/kdevelop/ThirdParty/Pangolin/build/src/include  -std=c++11 -g   -o CMakeFiles/plotTrajectory.dir/plotTrajectory.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch3/plotTrajectory.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch3/plotTrajectory.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch3/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/yt-306/kdevelop/ThirdParty/Pangolin/include -isystem /home/yt-306/kdevelop/ThirdParty/Pangolin/build/src/include  -std=c++11 -g   -o CMakeFiles/visualizeGeometry.dir/visualizeGeometry.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch3/visualizeGeometry.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch3/visualizeGeometry.cpp"
+}
+]

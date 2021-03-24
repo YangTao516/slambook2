@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch2/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/useHello.dir/useHello.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch2/useHello.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch2/useHello.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch2/build",
+  "command": "/usr/bin/c++  -Dhello_shared_EXPORTS  -g -fPIC   -o CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch2/libHelloSLAM.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch2/libHelloSLAM.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch2/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/helloslam.dir/helloSLAM.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch2/helloSLAM.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch2/helloSLAM.cpp"
+}
+]

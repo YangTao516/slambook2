@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch6/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3 -isystem /usr/include/opencv -I/usr/local/include  -std=c++14 -O3 -g   -o CMakeFiles/g2oCurveFitting.dir/g2oCurveFitting.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch6/g2oCurveFitting.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch6/g2oCurveFitting.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch6/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3 -isystem /usr/include/opencv -I/usr/local/include  -std=c++14 -O3 -g   -o CMakeFiles/gaussNewton.dir/gaussNewton.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch6/gaussNewton.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch6/gaussNewton.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch6/build",
+  "command": "/usr/bin/c++  -DGFLAGS_IS_A_DLL=0 -I/usr/include/eigen3 -isystem /usr/include/opencv -I/usr/local/include  -std=c++14 -O3 -g   -o CMakeFiles/ceresCurveFitting.dir/ceresCurveFitting.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch6/ceresCurveFitting.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch6/ceresCurveFitting.cpp"
+}
+]

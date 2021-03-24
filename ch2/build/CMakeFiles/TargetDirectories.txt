@@ -1,0 +1,5 @@
+/home/yt-306/kdevelop/project/slambook/ch2/build/CMakeFiles/rebuild_cache.dir
+/home/yt-306/kdevelop/project/slambook/ch2/build/CMakeFiles/edit_cache.dir
+/home/yt-306/kdevelop/project/slambook/ch2/build/CMakeFiles/useHello.dir
+/home/yt-306/kdevelop/project/slambook/ch2/build/CMakeFiles/hello_shared.dir
+/home/yt-306/kdevelop/project/slambook/ch2/build/CMakeFiles/helloslam.dir

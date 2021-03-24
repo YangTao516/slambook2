@@ -1,0 +1,5 @@
+# KDebugSettings data file
+# Format:
+# logname<space>description
+
+kdevelop.plugins.ch5 KDevelop plugin: ch5

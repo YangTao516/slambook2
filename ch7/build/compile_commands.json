@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch7/build",
+  "command": "/usr/bin/c++  -DENABLE_SSE -isystem /usr/include/opencv -I/usr/include/eigen3  -std=c++14 -O2  -msse4 -O3 -DNDEBUG   -o CMakeFiles/orb_self.dir/orb_self.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch7/orb_self.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch7/orb_self.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch7/build",
+  "command": "/usr/bin/c++  -DENABLE_SSE -isystem /usr/include/opencv -I/usr/include/eigen3  -std=c++14 -O2  -msse4 -O3 -DNDEBUG   -o CMakeFiles/orb_cv.dir/orb_cv.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch7/orb_cv.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch7/orb_cv.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch7/build",
+  "command": "/usr/bin/c++  -DENABLE_SSE -isystem /usr/include/opencv -I/usr/include/eigen3  -std=c++14 -O2  -msse4 -O3 -DNDEBUG   -o CMakeFiles/triangulation.dir/triangulation.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch7/triangulation.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch7/triangulation.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch7/build",
+  "command": "/usr/bin/c++  -DENABLE_SSE -isystem /usr/include/opencv -I/usr/include/eigen3  -std=c++14 -O2  -msse4 -O3 -DNDEBUG   -o CMakeFiles/pose_estimation_2d2d.dir/pose_estimation_2d2d.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch7/pose_estimation_2d2d.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch7/pose_estimation_2d2d.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch7/build",
+  "command": "/usr/bin/c++  -DENABLE_SSE -isystem /usr/include/opencv -I/usr/include/eigen3  -std=c++14 -O2  -msse4 -O3 -DNDEBUG   -o CMakeFiles/pose_estimation_3d2d.dir/pose_estimation_3d2d.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch7/pose_estimation_3d2d.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch7/pose_estimation_3d2d.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch7/build",
+  "command": "/usr/bin/c++  -DENABLE_SSE -isystem /usr/include/opencv -I/usr/include/eigen3  -std=c++14 -O2  -msse4 -O3 -DNDEBUG   -o CMakeFiles/pose_estimation_3d3d.dir/pose_estimation_3d3d.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch7/pose_estimation_3d3d.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch7/pose_estimation_3d3d.cpp"
+}
+]

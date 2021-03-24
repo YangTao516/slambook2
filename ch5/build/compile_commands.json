@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch5/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /usr/include/opencv -isystem /usr/local/include  -std=c++11 -g   -o CMakeFiles/joinMap.dir/joinMap.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch5/joinMap.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch5/joinMap.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch5/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /usr/include/opencv -isystem /usr/local/include  -std=c++11 -g   -o CMakeFiles/stereoVision.dir/stereoVision.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch5/stereoVision.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch5/stereoVision.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch5/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3 -isystem /usr/include/opencv  -std=c++11 -g   -o CMakeFiles/imageBasics.dir/imageBasics.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch5/imageBasics.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch5/imageBasics.cpp"
+},
+{
+  "directory": "/home/yt-306/kdevelop/project/slambook/ch5/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3 -isystem /usr/include/opencv  -std=c++11 -g   -o CMakeFiles/undistortImage.dir/undistortImage.cpp.o -c /home/yt-306/kdevelop/project/slambook/ch5/undistortImage.cpp",
+  "file": "/home/yt-306/kdevelop/project/slambook/ch5/undistortImage.cpp"
+}
+]

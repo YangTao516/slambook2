@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Description": "ch6",
+        "Id": "ch6",
+        "Name": "ch6",
+        "ServiceTypes": [
+            "KDevelop/Plugin"
+        ]
+    },
+    "X-KDevelop-Category": "Global",
+    "X-KDevelop-Mode": "GUI"
+}

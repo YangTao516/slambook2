@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g  -rdynamic CMakeFiles/eigenMartix.dir/eigenMartix.cpp.o  -o eigenMartix 
